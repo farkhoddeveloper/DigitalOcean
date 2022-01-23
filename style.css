@@ -36,4 +36,12 @@ body .section-1 header nav {
   display: flex;
   gap: 40px;
 }
+
+body .section-1 header nav b {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 23px;
+  color: #0082F4;
+}
 /*# sourceMappingURL=style.css.map */
