@@ -66,6 +66,7 @@ body .section-1 header button {
   font-weight: normal;
   font-size: 20px;
   line-height: 23px;
+  text-align: center;
 }
 
 body .section-1 header button :hover {
