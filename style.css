@@ -72,4 +72,11 @@ body .section-1 header button {
 body .section-1 header button :hover {
   cursor: pointer;
 }
+
+body .section-1 hr {
+  width: 100%;
+  opacity: 0.1;
+  border: 1px solid #0283F5;
+  height: 0px;
+}
 /*# sourceMappingURL=style.css.map */
