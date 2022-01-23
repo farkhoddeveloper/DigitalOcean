@@ -153,11 +153,8 @@ body .section-1 main .buttons .button-2 {
   border: 1px solid #0082F4;
   border-radius: 10px;
   background-color: #ffffff;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
 }
 /*# sourceMappingURL=style.css.map */
