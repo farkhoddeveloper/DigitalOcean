@@ -134,6 +134,7 @@ body .section-1 main .buttons {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+  gap: 30px;
 }
 
 body .section-1 main .buttons .button-1 {
