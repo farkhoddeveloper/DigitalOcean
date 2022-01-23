@@ -75,7 +75,7 @@ body .section-1 header button {
 }
 
 body .section-1 header button :hover {
-  cursor: pointer;
+  cursor: progress;
 }
 
 body .section-1 hr {
