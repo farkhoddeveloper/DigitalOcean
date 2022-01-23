@@ -63,4 +63,8 @@ body .section-1 header button {
   border: #0082F4 solid 1px;
   color: #ffffff;
 }
+
+body .section-1 header button :hover {
+  cursor: pointer;
+}
 /*# sourceMappingURL=style.css.map */

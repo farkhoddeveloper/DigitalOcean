@@ -50,6 +50,10 @@ body{
                 border-radius: 6px;
                 border: #0082F4 solid 1px;
                 color: #ffffff;
+
+                :hover{
+                    cursor: pointer;
+                }
             }
         }
     }
