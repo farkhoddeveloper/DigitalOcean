@@ -53,4 +53,12 @@ body .section-1 header nav p {
   line-height: 23px;
   color: #000000;
 }
+
+body .section-1 header button {
+  width: 161px;
+  height: 52px;
+  padding: 14px 30px;
+  background: #0082F4;
+  border-radius: 6px;
+}
 /*# sourceMappingURL=style.css.map */
