@@ -29,4 +29,11 @@ body .section-1 header {
       -ms-flex-pack: justify;
           justify-content: space-between;
 }
+
+body .section-1 header nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 40px;
+}
 /*# sourceMappingURL=style.css.map */
