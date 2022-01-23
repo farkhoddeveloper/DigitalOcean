@@ -193,4 +193,14 @@ body .section-2 .right h3 {
   text-transform: uppercase;
   color: #0082F4;
 }
+
+body .section-2 .right h1 {
+  width: 496px;
+  height: 122px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 49px;
+  line-height: 64px;
+  color: #000000;
+}
 /*# sourceMappingURL=style.css.map */
