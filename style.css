@@ -203,4 +203,13 @@ body .section-2 .right h1 {
   line-height: 64px;
   color: #000000;
 }
+
+body .section-2 .rigth p {
+  width: 503px;
+  height: 90px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+}
 /*# sourceMappingURL=style.css.map */
