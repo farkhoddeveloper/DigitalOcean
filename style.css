@@ -109,4 +109,8 @@ body .section-1 main .left h1 {
   line-height: 79px;
   color: #000000;
 }
+
+body .section-1 main .left h1 span {
+  color: #0080FD;
+}
 /*# sourceMappingURL=style.css.map */
