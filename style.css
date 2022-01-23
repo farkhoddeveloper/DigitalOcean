@@ -62,6 +62,10 @@ body .section-1 header button {
   border-radius: 6px;
   border: #0082F4 solid 1px;
   color: #ffffff;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 23px;
 }
 
 body .section-1 header button :hover {
