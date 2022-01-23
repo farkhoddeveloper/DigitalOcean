@@ -80,4 +80,22 @@ body .section-1 hr {
   border: 1px solid #0283F5;
   height: 0px;
 }
+
+body .section-1 main {
+  width: 100%;
+  height: calc(100vh - 85px);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+body .section-1 main .left p {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 25px;
+  line-height: 29px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #0080FD;
+}
 /*# sourceMappingURL=style.css.map */
