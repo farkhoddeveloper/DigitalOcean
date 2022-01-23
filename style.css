@@ -99,4 +99,12 @@ body .section-1 main .left p {
   color: #0080FD;
   padding-top: 179px;
 }
+
+body .section-1 main .left h1 {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 60.55px;
+  line-height: 79px;
+  color: #000000;
+}
 /*# sourceMappingURL=style.css.map */
