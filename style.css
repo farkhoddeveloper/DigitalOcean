@@ -165,4 +165,8 @@ body .section-1 main .buttons .button-2 {
           justify-content: center;
   gap: 15px;
 }
+
+body .section-1 main .right img {
+  padding-top: 100px;
+}
 /*# sourceMappingURL=style.css.map */
