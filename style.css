@@ -74,10 +74,6 @@ body .section-1 header button {
   text-align: center;
 }
 
-body .section-1 header button :hover {
-  cursor: move;
-}
-
 body .section-1 hr {
   width: 100%;
   opacity: 0.1;
