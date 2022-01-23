@@ -134,4 +134,13 @@ body .section-1 main .buttons {
       -ms-flex-align: center;
           align-items: center;
 }
+
+body .section-1 main .buttons .button-1 {
+  width: 194px;
+  height: 63px;
+  padding: 20px 46px;
+  background: #0082F4;
+  border-radius: 10px;
+  color: #ffffff;
+}
 /*# sourceMappingURL=style.css.map */
