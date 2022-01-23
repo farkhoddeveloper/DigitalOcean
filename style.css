@@ -162,5 +162,6 @@ body .section-1 main .buttons .button-2 {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+  gap: 15px;
 }
 /*# sourceMappingURL=style.css.map */
