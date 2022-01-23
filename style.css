@@ -101,6 +101,8 @@ body .section-1 main .left p {
 }
 
 body .section-1 main .left h1 {
+  width: 531px;
+  height: 148px;
   font-style: normal;
   font-weight: bold;
   font-size: 60.55px;
